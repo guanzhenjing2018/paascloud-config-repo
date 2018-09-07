@@ -127,8 +127,8 @@ paascloud:
       accessKey: H7F7bbb5cgaPeOklOiYMtW52EXlJsECDIxh05Dic
       secretKey: IXC2JF3LLHHYwe9CDThx-X1d6dLFuHBo8Gy3sbuy
     oss:
-      privateHost: 'your qiniu oss private host'
-      publicHost: 'your qiniu oss public host'
+      privateHost: peogklvg8.bkt.clouddn.com
+      publicHost: peogklvg8.bkt.clouddn.com
   alipay:
     callback:
       url: http://dev-api.paascloud.net/omc/pay/alipayCallback
