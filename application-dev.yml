@@ -131,7 +131,7 @@ paascloud:
       publicHost: peprjus6w.bkt.clouddn.com
   alipay:
     callback:
-      url: http://dev-api.paascloud.net/omc/pay/alipayCallback
+      url: http://api.mswf168.com/omc/pay/alipayCallback
     qrCode:
       pcPath: /data/file/qrCode/alipay
       qiniuPath: alipay/QRCode/
