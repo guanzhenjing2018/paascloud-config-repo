@@ -127,8 +127,8 @@ paascloud:
       accessKey: H7F7bbb5cgaPeOklOiYMtW52EXlJsECDIxh05Dic
       secretKey: IXC2JF3LLHHYwe9CDThx-X1d6dLFuHBo8Gy3sbuy
     oss:
-      privateHost: peprjus6w.bkt.clouddn.com
-      publicHost: peprjus6w.bkt.clouddn.com
+      privateHost: pob.mswf168.com
+      publicHost: pob.mswf168.com
   alipay:
     callback:
       url: http://api.mswf168.com/omc/pay/alipayCallback
