@@ -131,7 +131,7 @@ paascloud:
       publicHost: pob.mswf168.com
   alipay:
     callback:
-      url: http://api.mswf168.com/omc/pay/alipayCallback
+      url: http://39.108.187.130:7979/omc/pay/alipayCallback
     qrCode:
       pcPath: /data/file/qrCode/alipay
       qiniuPath: alipay/QRCode/
