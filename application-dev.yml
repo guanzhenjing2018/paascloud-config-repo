@@ -111,16 +111,16 @@ paascloud:
       expiredMinutes: 120
   aliyun:
     key:
-      accessKeyId: LTAIrZoq5KqscmB4
-      accessKeySecret: iL7hu8l5jNRJYC4DkP41yjLEGSepPC
+      accessKeyId: LTAIbGGdk2AMcS5a
+      accessKeySecret: adqGb3duufzTCTBagTeperbvjUv4WU
     rocketMq:
       namesrvAddr: paascloud-mq-rocket:9876
     sms:
-      signName: 广州茂狮呙芙电商网
-      regionId: cn-beijing
+      signName: 叮邻圈子
+      regionId: cn-hangzhou
       endpoint:
-      endpointName: cn-beijing
-      product: 'your sms product'
+      endpointName: cn-hangzhou
+      product: 'Dysmsapi'
       domain: dysmsapi.aliyuncs.com
   qiniu:
     key:
