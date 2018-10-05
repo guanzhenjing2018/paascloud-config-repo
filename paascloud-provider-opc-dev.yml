@@ -89,7 +89,7 @@ paascloud:
       consumerGroup: CID_OPC
       producerGroup: PID_OPC
     sms:
-      signName:茂狮呙芙
+      signName: 茂狮呙芙
       regionId: cn-beijing
       endpoint:
       endpointName: cn-beijing
