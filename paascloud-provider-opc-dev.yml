@@ -95,3 +95,5 @@ paascloud:
       endpointName: cn-beijing
       product: Dysmsapi
       domain: dysmsapi.aliyuncs.com
+  thumbOptions: [{"method":"createScaledPicture","toWidth":120,"toHeight":120},{"method":"createWatermarkPicture","toWidth":120,"toHeight":120,"watermark":"C:\Users\ryeske\Desktop\three_squirrel_120_120.jpg","watermarkPosition":"TOP_LEFT","watermarkOpaqueness":"0.7"}]
+
