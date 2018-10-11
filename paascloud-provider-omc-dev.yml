@@ -70,6 +70,8 @@ paascloud:
   alipay:
     callback:
       url: http://api.mswf168.com/omc/pay/alipayCallback
+    return:
+      url: http://www.baidu.com/
     qrCode:
       pcPath: E:/File/alipay/QRCode
       qiniuPath: alipay/QRCode/
